@@ -37,4 +37,5 @@
 .delete-icon {
     color: rgba(235, 87, 87, 1);
     font-size: 27.5px;
+    cursor: pointer;
 }
